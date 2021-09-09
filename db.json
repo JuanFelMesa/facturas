@@ -1,5 +1,4 @@
-{
-  [
+[
   {
     "id": 11,
     "cedula": "123",
@@ -46,4 +45,3 @@
     "email": "marco@beltran.com"
   }
 ]
-}
